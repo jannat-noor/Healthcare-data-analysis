@@ -1,6 +1,6 @@
 # 🏥 Healthcare Data Analysis
 
-This project analyzes healthcare data to predict whether a patient will be re-admitted to a hospital. It is designed to evluate different classification algorithms to identify the best one based on prediction performance. 
+This project analyzes healthcare data to predict whether a patient will be re-admitted to a hospital. It is designed to evaluate different classification algorithms to identify the best one based on prediction performance. 
 Project can be used to identify patterns and provide insights to support decision-making in the healthcare domain.
 
 ---
