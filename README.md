@@ -1,6 +1,7 @@
 # 🏥 Healthcare Data Analysis
 
-This project performs exploratory data analysis and visualization on healthcare datasets using Python. It is designed to uncover trends, identify patterns, and provide insights that can support decision-making in the healthcare domain.
+This project analyzes healthcare data to predict whether a patient will be re-admitted to a hospital. It is designed to evluate different classification algorithms to identify the best one based on prediction performance. 
+Project can be used to identify patterns and provide insights to support decision-making in the healthcare domain.
 
 ---
 
