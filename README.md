@@ -47,10 +47,9 @@ You can interactively run this notebook in your browser without installing anyth
 1. Improve data storytelling with real-world datasets
 2. Demonstrate a practical data analysis workflow
 
+
 👩‍💻 Author
 
-**Noor E Jannat**
-
-📫 [jannat.mist@gmail.com](mailto:jannat.mist@gmail.com)
+**Noor E Jannat**|[Email](mailto:jannat.mist@gmail.com)
 
 🔗 [LinkedIn](www.linkedin.com/in/noorejannat) | [GitHub](https://github.com/jannat-noor)
