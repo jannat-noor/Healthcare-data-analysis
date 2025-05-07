@@ -39,15 +39,15 @@ You can interactively run this notebook in your browser without installing anyth
    git clone https://github.com/jannat-noor/Healthcare-data-analysis.git
    cd Healthcare-data-analysis
 
-📁 Files
-healthcare_data_analysis.ipynb: Main notebook with code, visuals, and analysis
-README.md: Project overview and usage instructions
+📁 Files: 
+1. healthcare_data_analysis.ipynb: Main notebook with code, visuals, and analysis
+2. README.md: Project overview and usage instructions
 
 🎯 Project Goals
-Improve data storytelling with real-world datasets
-Demonstrate a practical data analysis workflow
+1. Improve data storytelling with real-world datasets
+2. Demonstrate a practical data analysis workflow
 
 👩‍💻 Author
-Jannat Noor
-📫 jannat.mist@gmail.com
-🔗 [LinkedIn] www.linkedin.com/in/noorejannat | [GitHub](https://github.com/jannat-noor)
+Jannat Noor \\
+📫 jannat.mist@gmail.com \\
+🔗 www.linkedin.com/in/noorejannat | [GitHub](https://github.com/jannat-noor)
