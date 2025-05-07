@@ -50,6 +50,6 @@ You can interactively run this notebook in your browser without installing anyth
 
 👩‍💻 Author
 
-**Noor E Jannat**|[Email](mailto:jannat.mist@gmail.com)
+**Noor E Jannat** | [Email](mailto:jannat.mist@gmail.com)
 
 🔗 [LinkedIn](www.linkedin.com/in/noorejannat) | [GitHub](https://github.com/jannat-noor)
