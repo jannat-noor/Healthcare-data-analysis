@@ -48,6 +48,6 @@ You can interactively run this notebook in your browser without installing anyth
 2. Demonstrate a practical data analysis workflow
 
 👩‍💻 Author
-Jannat Noor \\
-📫 jannat.mist@gmail.com \\
+Jannat Noor
+📫 jannat.mist@gmail.com
 🔗 www.linkedin.com/in/noorejannat | [GitHub](https://github.com/jannat-noor)
