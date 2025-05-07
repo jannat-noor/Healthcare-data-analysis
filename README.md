@@ -8,7 +8,7 @@ This project performs exploratory data analysis and visualization on healthcare 
 
 You can interactively run this notebook in your browser without installing anything:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jannat-noor/Healthcare-data-analysis/blob/main/healthcare_data_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jannat-noor/Healthcare-data-analysis/blob/main/Healthcare_data_End_to_End_Classification.ipynb)
 
 ---
 
