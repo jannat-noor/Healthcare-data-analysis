@@ -49,8 +49,8 @@ You can interactively run this notebook in your browser without installing anyth
 
 👩‍💻 Author
 
-Jannat Noor
+**Noor E Jannat**
 
-📫 jannat.mist@gmail.com
+📫 [jannat.mist@gmail.com](mailto:jannat.mist@gmail.com)
 
-🔗 www.linkedin.com/in/noorejannat | [GitHub](https://github.com/jannat-noor)
+🔗 [LinkedIn](www.linkedin.com/in/noorejannat) | [GitHub](https://github.com/jannat-noor)
